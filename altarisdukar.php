@@ -32,29 +32,23 @@
 
            	   <p><a href="/images/altarisdukar/seria/1.jpg" rel="prettyPhoto[altarisdukar]"><img class="aligncenter" src="/images/altarisdukar/seria/1-tn.jpg" alt="" /></a></p>
 
-               <p>Hugmyndin að verkefninu Altarisdúkar kviknaði á útmánuðum árið 2003 út frá vinnu við textílhandverk og áhuga á munstrum. Þá höfðu íslenskir altarisdúkar, okkur vitanlega, ekki áður verið teknir sérstaklega til skoðunar og er verkefnið Altarisdúkar því frumkvöðlaverkefni. Verkefnið fór hægt af stað og tekinn var tími í undirbúning svo sem að móta markmið og vinnulag. Fljótlega var ákveðið að taka aðeins fyrir afmarkað svæði í einu, eitt prófastsdæmi, og ljúka við að skoða alla altarisdúka þar og ganga frá efni sem safnast hefur í tölvutæku formi. Einnig að stefna skyldi að því að vinna á hverju svæði endaði með kynningu/sýningu á gögnum úr verkefninu í samvinnu við prófastdæmin og söfn í héraði.</p>
+               <p>Hugmyndin að verkefninu Altarisdúkar kviknaði á útmánuðum árið 2003 út frá vinnu við textílhandverk og áhuga á munstrum. Þá höfðu íslenskir altarisdúkar, okkur vitanlega, ekki áður verið teknir sérstaklega til skoðunar og er verkefnið Altarisdúkar því frumkvöðlaverkefni. Verkefnið fór hægt af stað og tekinn var tími í undirbúning svo sem að móta markmið og vinnulag. Fljótlega var ákveðið að taka aðeins fyrir afmarkað svæði í einu, eitt prófastsdæmi, og ljúka við að skoða alla altarisdúka þar og ganga frá efni sem safnast hefur í tölvutæku formi. Einnig að stefna skyldi að því að vinna á hverju svæði endaði með kynningu/sýningu á gögnum úr verkefninu í samvinnu við prófastdæmin og söfn í héraði. Vinnan hófst í Eyjafirði og síðan hafa kirkjur víða um landið verið heimsóttar.</p>
 
-               <p>Vinnan hófst í Eyjafirði og síðan hafa kirkjur víða um landið verið heimsóttar og altarisdúkar þeirra ljósmyndaðir og skráðir, m.a. á öllu norðanverðu landinu, frá Langanesi og vestur í Djúp. Áhersla var frá byrjun á munstur handunninna dúka og aðferðir við gerð þeirra. Altarisdúkar í þeim landshlutum sem verkefnið nær til eru margvíslegir að gerð og sumir hinir mestu kjörgripir. Þá hefur komið í ljós áhugaverður mismunur á munstrum dúka milli svæða og prófastsdæma og einnig eru vinnslusögur dúkanna fjölbreytilegar.</p>
+               <p><strong>Jenný Karlsdóttir</strong> og <strong>Oddný E. Magnúsdóttir</strong> hafa unnið saman að verkefninu frá upphafi og stefna að því að halda því áfram sem víðast um landið, helst að loka hringnum.</p>
 
                <p>Helsta viðfangsefni og markmið verkefnisins eru:</p>
                	<ul>
-               		<li>Að kanna munstur og gerð altarisdúka í íslenskum kirkjum</li>
-			   		<li>Að safna upplýsingum um efnið og einnig vinnslusögu dúkanna eftir föngum</li>
-			   		<li>Að ljósmynda dúkana, skrá upplýsingar og geyma með möguleika á frekari úrvinnslu</li>
-               	</ul>
-
-               	<p>Vinnan við verkefnið er í aðalatriðum þríþætt.<br />
-				- Fyrst eru kirkjur á viðkomandi svæði heimsóttar og altarisdúkar þeirra skoðaðir og ljósmyndaðir<br />
-				- síðan er fróðleik um þá safnað eftir föngum<br />
-				- og loks er allt efnið tölvuskráð, kynnt og síðan varðveitt.</p>
-
-				<p><strong>Jenný Karlsdóttir</strong> og <strong>Oddný E. Magnúsdóttir</strong> hafa unnið saman að verkefninu frá upphafi og stefna að því að halda því áfram sem víðast um landið, helst að loka hringnum.</p>
+               		<li>Að kanna munstur og gerð altarisdúka.</li>
+			   		<li>Að ljósmynda dúkana og skrá upplýsingar.</li>
+               	</ul>			
 
                 <p><a href="/images/altarisdukar/seria/6.jpg" rel="prettyPhoto[altarisdukar]"><img class="aligncenter" src="/images/altarisdukar/seria/6-tn.jpg" alt="" /></a></p>
 
+                <h3>2015 og 2016</h3>
+                <p>Haustið 2015 var farin vinnuferð austur á land og í nóvember það ár lauk verkefninu í Árnesþingi með sýningu í Húsinu á Eyrarbakka í samvinnu við Byggðasafn Árnesinga en 2016 var lokið við að skoða dúka í Borgarfjarðar- og Mýrarprófastsdæmi.</p>
+
                 <h3>2014</h3>
-				<p>Á árinu 2014 var unnið allmikið að verkefninu, en það ár hlaut verkefnið styrki úr Kirkjumálasjóði og einnig frá Menningarráði Suðurlands.<br />
-				Stefnt var að því að halda áfram þar sem frá var horfið á Austurlandi haustið áður, en þeirri áætlun þurfti að breyta og var næsta vinnuferð farin í júní 2014 suður í Borgarfjörð. Gekk sú ferð vel og náðist að heimsækja 13 kirkjur og skoða altarisdúka þeirra. Í september 2014 fórum við síðan fjögra daga vinnuferð á Suðurland og skoðuðum dúka í 18 kirkjum í Árnessýslu (gamla Árnesprófastsdæmi). Í ferðinni var einnig komið við í Borgarfirði því þó nokkrir altarisdúkar voru eftir óskoðaðir á því svæði.<br /> Þriðja vinnulotan í verkefninu á árinu, og síðasta vinnuferðin, var farin síðar í septembermánuði vestur á Mýrar. Allar þessar ferðir gengu vel en mikil „heimavinna“ er eftir við öflun upplýsinga og frágang gagna og verður hún unnin í vetur.</p>
+				<p>Það ár voru farnar vinnuferðir um Borgarfjörð, Mýrar og Suðurland (Árnesþing) og heimsóttar kirkjur á þeim svæðum.</p>
 
                 <p><a href="/images/altarisdukar/seria/2.jpg" rel="prettyPhoto[altarisdukar]"><img class="aligncenter" src="/images/altarisdukar/seria/2-tn.jpg" alt="" /></a></p>
 
