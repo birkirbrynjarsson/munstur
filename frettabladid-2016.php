@@ -19,11 +19,11 @@
 
             <div class="entry">
 
-           <span class="meta">Grein sem birtist í Fréttablaðinu 3. desember 2016.</span>
+           <span class="meta">Grein sem birtist í <a href="http://www.visir.is/g/2016161209649/kaerleikur-og-virding-tengjast-oft-gerd-altarisduka">Fréttablaðinu 3. desember 2016</a>.</span>
            <h2>Kærleikur og virðing tengjast oft gerð altarisdúka</h2>
 
            <div class="entry-head">
-               <p>Upphaflega birt í Fréttablaðinu og á <a href="http://www.visir.is/g/2016161209649/kaerleikur-og-virding-tengjast-oft-gerd-altarisduka">Vísi</a>.</p>
+               <span class="date">Upphaflega birt í Fréttablaðinu og á <a href="http://www.visir.is/g/2016161209649/kaerleikur-og-virding-tengjast-oft-gerd-altarisduka">Vísi</a>.</span><br/>
                <span class="date">3. desember 2016</span><br/>
                <span class="date">Gunnþóra Gunnarsdóttir skrifar</span>
            </div>
