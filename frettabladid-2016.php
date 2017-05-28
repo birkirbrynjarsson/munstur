@@ -29,7 +29,7 @@
 
             <div class="entry-content">
 
-                <div class="entry-head">
+                <div>
                     <p><a href="/images/altarisdukar/frettabladid/1.jpg" rel="prettyPhoto[frettabladid]"><img class="aligncenter" src="/images/altarisdukar/frettabladid/1.jpg" alt="" width="570" /></a></p>
                     <span class="date">Jenný hefur viðað að sér þekkingu á handverki í tæp 70 ár. Á síðustu árum hefur hún tekið myndir af um 300 íslenskum altarisdúkum og er hvergi nærri hætt.</span>
                 </div>
