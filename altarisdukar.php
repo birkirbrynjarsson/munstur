@@ -45,7 +45,7 @@
                 <p><a href="/images/altarisdukar/seria/6.jpg" rel="prettyPhoto[altarisdukar]"><img class="aligncenter" src="/images/altarisdukar/seria/6-tn.jpg" alt="" /></a></p>
 
                 <h3>2015 og 2016</h3>
-                <p>Haustið 2015 var farin vinnuferð austur á land og í nóvember það ár lauk verkefninu í Árnesþingi með sýningu í Húsinu á Eyrarbakka í samvinnu við Byggðasafn Árnesinga en 2016 var lokið við að skoða dúka í Borgarfjarðar- og Mýrarprófastsdæmi.</p>
+                <p>Haustið 2015 var farin vinnuferð austur á land og í nóvember það ár lauk verkefninu í Árnesþingi með sýningu í Húsinu á Eyrarbakka í samvinnu við Byggðasafn Árnesinga en 2016 var lokið við að skoða dúka í Borgarfirði og á Mýrum.</p>
 
                 <h3>2014</h3>
 				<p>Það ár voru farnar vinnuferðir um Borgarfjörð, Mýrar og Suðurland (Árnesþing) og heimsóttar kirkjur á þeim svæðum.</p>
