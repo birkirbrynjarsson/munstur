@@ -30,8 +30,8 @@
             <div class="entry-content">
 
                 <div class="aligncenter">
-                    <p><a href="/images/altarisdukar/frettabladid/1.jpg" rel="prettyPhoto[frettabladid]"><img src="/images/altarisdukar/frettabladid/1.jpg" alt="" width="570" /></a></p>
-                    <span class="date">Jenný hefur viðað að sér þekkingu á handverki í tæp 70 ár. Á síðustu árum hefur hún tekið myndir af um 300 íslenskum altarisdúkum og er hvergi nærri hætt.</span>
+                    <a href="/images/altarisdukar/frettabladid/1.jpg" rel="prettyPhoto[frettabladid]"><img src="/images/altarisdukar/frettabladid/1.jpg" alt="" width="570" /></a>
+                    <span class="meta">Jenný hefur viðað að sér þekkingu á handverki í tæp 70 ár. Á síðustu árum hefur hún tekið myndir af um 300 íslenskum altarisdúkum og er hvergi nærri hætt.</span>
                 </div>
 
                 <p>Mín áhugamál tengjast handverki að mestu, enda er ég alin upp við handverk,“ segir Jenný Karlsdóttir, fyrrverandi kennari sem vinnur að því að mynda og skrá altarisdúka í öllum kirkjum landsins.  „Pabbi var bólstrari og mamma eina íslenska konan sem lauk námi í körfu­mublusmíði. Einn vetur var ég í Noregi í skóla og stúderaði myndvefnað, fór mikið á sýningar og í kirkjur og einhverra hluta vegna fékk ég áhuga á altarisdúkum enda hafði ég lengi safnað textíl og sýslað með munstur.</p>
