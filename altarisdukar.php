@@ -73,7 +73,7 @@
                 <h3>2009-2010</h3>
 				<p>Ein ný afurð varð til í verkefninu Altarisdúkar á árinu 2009, með stuðningi Atvinnumálasjóðs kvenna, en það var dagatal (fyrir árið 2010) með ljósmyndum af munstrum dúka og kirkjum, sýnishorn úr því efni sem aflast hafði þá. Grafísk hönnun var unnin af Stíl í samvinnu við okkur og var dagatalið til sölu í Kirkjuhúsinu í Reykjavík og víðar.</p>
 
-                <p><a href="/images/altarisdukar/seria/7.jpg" rel="prettyPhoto[altarisdukar]"><img class="aligncenter" src="/images/altarisdukar/seria/7-tn.jpg" alt="" /></a></p>
+                <p><a href="/images/altarisdukar/dagatal2.jpg" rel="prettyPhoto[altarisdukar]"><img class="aligncenter" src="/images/altarisdukar/dagatal2-tn.jpg" alt="" /></a></p>
 
                 <h3>2009</h3>
 				<p>Árið 2009 bað Kirkjumiðstöðin Kirkjubær á Akureyri um myndir og önnur gögn verkefnisins úr Eyjafjarðarprófastsdæmi til sýningar í húsnæði sínu og var sýningin og verkefnið kynnt þar af undirrituðum 3. apríl um vorið.</p>
