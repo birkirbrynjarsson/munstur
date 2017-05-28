@@ -29,6 +29,8 @@
 
             <div class="entry-content">
 
+                <p><a href="/images/altarisdukar/frettabladid/1.jpg" rel="prettyPhoto[frettabladid]"><img class="aligncenter" src="/images/altarisdukar/frettabladid/1.jpg" alt="" /></a></p>
+
                 <p>Mín áhugamál tengjast handverki að mestu, enda er ég alin upp við handverk,“ segir Jenný Karlsdóttir, fyrrverandi kennari sem vinnur að því að mynda og skrá altarisdúka í öllum kirkjum landsins.  „Pabbi var bólstrari og mamma eina íslenska konan sem lauk námi í körfu­mublusmíði. Einn vetur var ég í Noregi í skóla og stúderaði myndvefnað, fór mikið á sýningar og í kirkjur og einhverra hluta vegna fékk ég áhuga á altarisdúkum enda hafði ég lengi safnað textíl og sýslað með munstur.</p>
                 <p>Ég hafði samband við vinkonu mína, Oddnýju E. Magnúsdóttur á Húsavík, sem er þjóðfræðingur og spurði hvort hún væri ekki til í að koma með mér í íslenskar kirkjur að skoða altarisdúka og hún var það. Þannig fór snjóbolti af stað.</p>
                 <p>Við Oddný erum búnar að kemba Norðurlandið, Borgarfjörð, Árnessýslu og Fljótsdalshérað og fara þar í hátt í 200 kirkjur. Ég gæti trúað að dúkarnir væru orðnir um 300 því sumar kirkjur eiga gamla dúka, aflagða og okkur finnst mikill fengur í að fá að skoða þá og mynda. Sumir eru líka komnir á söfn í sínum heimahéruðum og hefur jafnvel verið bjargað úr ruslapokum,“ segir Jenný og tekur fram að þær Oddný séu fyrst og fremst að rannsaka munstrin, verkefnið komi trúmálum ekkert við.</p>
