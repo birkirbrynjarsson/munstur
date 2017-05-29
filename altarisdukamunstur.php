@@ -32,21 +32,17 @@
 
            <p>Hér eru nokkur sýnishorn af altarisdúkamunstrum sem víða má sjá í kirkjum. Þau eru ekki sérhönnuð og flest fengin úr gömlum munsturblöðum eða bókum. Heimilt er að taka afrit af munstrunum (frítt) og nota en einnig er fyrirhugað að gefa út hefti með munstrum. Loks er bent á síðuna <a href="#">Altarisdúkamunstur á facebook</a>, þar verður hægt að fylgjast framvindu og nýju efni.</p>
 
-            <div class="aligncenter">
-                <p class="image-list">
-                    <a href="/images/altarisdukar/munstur/dukur1.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignleft" src="/images/altarisdukar/munstur/dukur1.jpg" alt="" width="240"/></a>
-                    <a href="/images/altarisdukar/munstur/dukur2.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignright" src="/images/altarisdukar/munstur/dukur2.jpg" alt="" width="240" /></a>
-                </p>
-            </div>
-            <div class="aligncenter">
+            <p class="image-list">
+                <a href="/images/altarisdukar/munstur/dukur1.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignleft" src="/images/altarisdukar/munstur/dukur1.jpg" alt="" width="240"/></a>
+                <a href="/images/altarisdukar/munstur/dukur2.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignright" src="/images/altarisdukar/munstur/dukur2.jpg" alt="" width="240" /></a>
+            </p>
+            <div class="aligncenter" style="margin-top:15px;">
                     <a href="/images/altarisdukar/munstur/dukur4.jpg" rel="prettyPhoto[frettabladid]"><img src="/images/altarisdukar/munstur/dukur4.jpg" alt="" width="570" /></a>
             </div>
-            <div class="aligncenter">
-                <p class="image-list">
-                    <a href="/images/altarisdukar/munstur/dukur3.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignleft" src="/images/altarisdukar/munstur/dukur3.jpg" alt="" width="240" /></a>
-                    <a href="/images/altarisdukar/munstur/dukur5.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignright" src="/images/altarisdukar/munstur/dukur5.jpg" alt="" width="240" /></a>
-                </p>
-            </div>
+            <p class="image-list">
+                <a href="/images/altarisdukar/munstur/dukur3.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignleft" src="/images/altarisdukar/munstur/dukur3.jpg" alt="" width="240" /></a>
+                <a href="/images/altarisdukar/munstur/dukur5.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignright" src="/images/altarisdukar/munstur/dukur5.jpg" alt="" width="240" /></a>
+            </p>
 
 			</div><!--end entry-content-->
 			</div><!--end entry-->
