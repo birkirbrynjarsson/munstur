@@ -49,15 +49,15 @@
                   
                   
                   <div class="featured_item">
-                  <div class="featured_text">
-            			<div class="entry">
-                        	<span class="meta">Altarisdúkar</span>
-            				<h2><a href="#">Altarisdúkar og Altarisdúkamunstur.</a></h2>
+                    <div class="featured_text">
+                        <div class="entry">
+                            <span class="meta">Altarisdúkar</span>
+                            <h2><a href="#">Altarisdúkar og Altarisdúkamunstur.</a></h2>
                             <p>Saman hafa þær Jenný Karlsdóttir og Oddný E. Magnúsdóttir skoðað, skráð og ljósmyndað altarisdúka viðsvegar um landið.</p>
                             <p>Verkefnið hófst árið 2006 og er fyrirhugað að gefa út hefti með munstrum.</p>
-                			<!--<p>Verkefnið felst í því að taka myndir af kirkjunum, skoða og ljósmynda altarisdúkana og skrá sögu þeirra. Verkefnið hefur verið unnið í samvinnu við prófastsdæmin og söfnin á svæðinu og því hefur lokið með sýningum.</p><p>Að verkefninu standa Jenný Karlsdóttir og Oddný E. Magnúsdóttir.</p>
-                            </div>-->
-                            <a href="http://munstur.is/altarisdukar.php" class="read-more">Lesa Meira</a><a href="#" class="show-next">Næsta »</a>
+                            <!--<p>Verkefnið felst í því að taka myndir af kirkjunum, skoða og ljósmynda altarisdúkana og skrá sögu þeirra. Verkefnið hefur verið unnið í samvinnu við prófastsdæmin og söfnin á svæðinu og því hefur lokið með sýningum.</p><p>Að verkefninu standa Jenný Karlsdóttir og Oddný E. Magnúsdóttir.</p>-->
+                        </div>
+                        <a href="http://munstur.is/altarisdukar.php" class="read-more">Lesa Meira</a><a href="#" class="show-next">Næsta »</a>
                       </div><!-- end featured_text-->
                       
                       <div class="featured_image">
