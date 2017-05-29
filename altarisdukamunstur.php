@@ -34,7 +34,7 @@
 
            <h3>Hekluð altarisdúkamunstur</h3>
 
-           <div class="entry_portfolio">
+           <div class="entry_portfolio_noside">
           	<div class="small_box box1">
 				<div class="portfolio_item_noside">
             	<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>
