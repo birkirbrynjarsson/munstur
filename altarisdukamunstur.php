@@ -38,14 +38,14 @@
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
                     <!--<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>-->
-                    <a href="images/altarisdukar/munstur/dukur1_mynd.jpg#1" rel="lightbox[dukur1]"><img src="images/altarisdukar/munstur/dukur1_mynd_tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur1_mynd.jpg"><img src="images/altarisdukar/munstur/dukur1_mynd_tn.jpg" alt="" /></a>
                     </div>
                     <p>Halló amma</p>
                 </div><!--end small_box-->
                 
                 <div class="small_box box3">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/dukur1.jpg#2" rel="lightbox[dukur1]"><img src="images/altarisdukar/munstur/dukur1_tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur1.jpg"><img src="images/altarisdukar/munstur/dukur1_tn.jpg" alt="" /></a>
                     </div>
                     <p>Halló</p>
                 </div><!--end small_box-->
@@ -55,14 +55,14 @@
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
                     <!--<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>-->
-                    <a href="images/altarisdukar/munstur/dukur2_mynd.jpg#1" rel="lightbox[dukur2]"><img src="images/altarisdukar/munstur/dukur2_mynd_tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur2_mynd.jpg"><img src="images/altarisdukar/munstur/dukur2_mynd_tn.jpg" alt="" /></a>
                     </div>
                     <p>Halló amma</p>
                 </div><!--end small_box-->
                 
                 <div class="small_box box3">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/dukur2.jpg#2" rel="lightbox[dukur2]"><img src="images/altarisdukar/munstur/dukur2_tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur2.jpg"><img src="images/altarisdukar/munstur/dukur2_tn.jpg" alt="" /></a>
                     </div>
                     <p>Halló</p>
                 </div><!--end small_box-->
@@ -72,14 +72,14 @@
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
                     <!--<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>-->
-                    <a href="images/altarisdukar/munstur/dukur3_mynd.jpg#1" rel="lightbox[dukur3]"><img src="images/altarisdukar/munstur/dukur3_mynd_tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur3_mynd.jpg"><img src="images/altarisdukar/munstur/dukur3_mynd_tn.jpg" alt="" /></a>
                     </div>
                     <p>Halló amma</p>
                 </div><!--end small_box-->
                 
                 <div class="small_box box3">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/dukur3.jpg#2" rel="lightbox[dukur3]"><img src="images/altarisdukar/munstur/dukur3_tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur3.jpg"><img src="images/altarisdukar/munstur/dukur3_tn.jpg" alt="" /></a>
                     </div>
                     <p>Halló</p>
                 </div><!--end small_box-->
@@ -89,14 +89,14 @@
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
                     <!--<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>-->
-                    <a href="images/altarisdukar/munstur/dukur4_mynd.jpg#1" rel="lightbox[dukur4]"><img src="images/altarisdukar/munstur/dukur4_mynd_tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur4_mynd.jpg"><img src="images/altarisdukar/munstur/dukur4_mynd_tn.jpg" alt="" /></a>
                     </div>
                     <p>Halló amma</p>
                 </div><!--end small_box-->
                 
                 <div class="small_box box3">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/dukur4.jpg#2" rel="lightbox[dukur4]"><img src="images/altarisdukar/munstur/dukur4_tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur4.jpg"><img src="images/altarisdukar/munstur/dukur4_tn.jpg" alt="" /></a>
                     </div>
                     <p>Halló</p>
                 </div><!--end small_box-->
@@ -106,14 +106,14 @@
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
                     <!--<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>-->
-                    <a href="images/altarisdukar/munstur/dukur5_mynd.jpg#1" rel="lightbox[dukur5]"><img src="images/altarisdukar/munstur/dukur5_mynd_tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur5_mynd.jpg"><img src="images/altarisdukar/munstur/dukur5_mynd_tn.jpg" alt="" /></a>
                     </div>
                     <p>Halló amma</p>
                 </div><!--end small_box-->
                 
                 <div class="small_box box3">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/dukur5.jpg#2" rel="lightbox[dukur5]"><img src="images/altarisdukar/munstur/dukur5_tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur5.jpg"><img src="images/altarisdukar/munstur/dukur5_tn.jpg" alt="" /></a>
                     </div>
                     <p>Halló</p>
                 </div><!--end small_box-->
