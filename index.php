@@ -89,7 +89,7 @@
           	<div class="small_box box1">
             	<span class="meta">Munstur og Menning</span>
             	<h3><a href="#">Handverksmenning</a></h3>
-                <p><strong>Munstur og menning</strong> vinnur að því að gera sem mest af okkar fornu handverksmenningu aðgengilega nútíma handverksfólki á auðveldan hátt. Auk þess að beina íslenskri minjagripagerð í þjóðlegan farveg.</p>
+                <p><strong>Munstur og menning</strong> vinnur að því að gera sem mest af okkar fornu handverksmenningu aðgengilega nútíma handverksfólki á auðveldan hátt. Auk þess að beina íslenskri hönnun og minjagripagerð í þjóðlegan farveg.</p>
             </div><!--end widget-->
             
             <div class="small_box box2">
@@ -101,7 +101,7 @@
             <div class="small_box box3">
             	<span class="meta">Munstur og Menning</span>
             	<h3><a href="#">Söfnun</a></h3>
-                <p><strong>Munstur og menning</strong> safnar gömlum munstrum og hannyrðum og vill með því sýna handverki formæðra og forfeðra okkar þá virðingu sem það á skilið.</p><p>Ef þú veist um einhvern sem ætlr að henda eða þarf að losa sig við gömul munsturblöð eða bækur, þá yrði ég mjög þakklát ef haft væri samband við mig. - jenny@munstur.is</p>
+                <p><strong>Munstur og menning</strong> safnar gömlum munstrum og hannyrðum og vill með því sýna handverki formæðra og forfeðra okkar þá virðingu sem það á skilið.</p><p>Ef þú veist um einhvern sem ætlar að henda eða þarf að losa sig við gömul munsturblöð eða bækur, þá yrði ég mjög þakklát ef haft væri samband við mig. - jenny@munstur.is</p>
                 <!--<img src="files/front3.png" alt="" class="ie6fix" />-->
             </div><!--end widget-->
             

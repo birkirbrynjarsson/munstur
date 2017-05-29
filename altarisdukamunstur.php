@@ -30,7 +30,15 @@
            </div>
            <div class="entry-content">
 
-           	   <p><a href="/images/altarisdukar/seria/1.jpg" rel="prettyPhoto[altarisdukar]"><img class="aligncenter" src="/images/altarisdukar/seria/1-tn.jpg" alt="" /></a></p>
+           <p>Hér eru nokkur sýnishorn af altarisdúkamunstrum sem víða má sjá í kirkjum. Þau eru ekki sérhönnuð og flest fengin úr gömlum munsturblöðum eða bókum. Heimilt er að taka afrit af munstrunum (frítt) og nota en einnig er fyrirhugað að gefa út hefti með munstrum. Loks er bent á síðuna <a href="#">Altarisdúkamunstur á facebook</a>, þar verður hægt að fylgjast framvindu og nýju efni.</p>
+
+            <p class="image-list">
+                <a href="/images/altarisdukar/munstur/dukur1.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignleft" src="/images/altarisdukar/munstur/dukur1.jpg" alt="" /></a>
+                <a href="/images/altarisdukar/munstur/dukur2.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignleft" src="/images/altarisdukar/munstur/dukur2.jpg" alt="" /></a>
+                <a href="/images/altarisdukar/munstur/dukur3.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignleft" src="/images/altarisdukar/munstur/dukur3.jpg" alt="" /></a>
+                <a href="/images/altarisdukar/munstur/dukur4.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignleft" src="/images/altarisdukar/munstur/dukur4.jpg" alt="" /></a>
+                <a href="/images/altarisdukar/munstur/dukur5.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignleft" src="/images/altarisdukar/munstur/dukur5.jpg" alt="" /></a>
+            </p>
 
 			</div><!--end entry-content-->
 			</div><!--end entry-->
