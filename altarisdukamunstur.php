@@ -32,22 +32,23 @@
 
            <p>Hér eru nokkur sýnishorn af altarisdúkamunstrum sem víða má sjá í kirkjum. Þau eru flest gömul og fengin úr munsturblöðum eða bókum. Heimilt er að taka afrit af munstrunum (frítt) en einnig er fyrirhugað að gefa út hefti með munstrum. Loks er bent á síðuna <a href="https://www.facebook.com/Altarisd%C3%BAkamunstur-1657806017860895/">Altarisdúkamunstur á facebook</a>, þar verður hægt að fylgjast með framvindu og nýju efni.</p>
 
-           <h3>Hekluð altarisdúkamunstur</h3>
+           <h2>Hekluð altarisdúkamunstur</h2>
 
            <div class="entry_portfolio_noside">
-          	<div class="small_box box1">
-				<div class="portfolio_item_noside">
-            	<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>
-                <a href="images/baekur/leidarvisir.jpg#1" rel="lightbox[portfolio]"><img src="images/baekur/leidarvisir_tn.jpg" alt="" /></a>
-				</div><p><a href="http://munstur.is/baekur/hannyrdir.php"><strong>Leiðarvísir til að nema ýmsar kvennlegar hannyrðir.</strong></a> (Reykjavík 1886) Eftir Þóru Pjetursdóttur, Jarþrúði Jónsdóttur og Þóru Jónsdóttur</p>
-            </div><!--end small_box-->
-            
-            <div class="small_box box3">
-				<div class="portfolio_item_noside">
-            	<h3><a href="http://munstur.is/baekur/vefnadur.php">Útsaumur</a></h3>
-				<a href="images/baekur/vefnadur_utsaumur.jpg#3" rel="lightbox[portfolio]"><img src="images/baekur/vefnadur_utsaumur_tn.jpg" alt="" /></a>
-				</div><p><a href="http://munstur.is/baekur/vefnadur.php"><strong>Vefnaðar og útsaumsgerðir. 1 - 2 - 3.</strong></a><br />Þessi þrjú hefti komu út sem fylgirit með tímaritinu Hlín, eftir Halldóru Bjarnadóttur.</p>
-            </div><!--end small_box-->
+                <div class="small_box box1">
+                    <div class="portfolio_item_noside">
+                    <!--<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>-->
+                    <a href="images/altarisdukar/munstur/dukur1_mynd.jpg#1" rel="lightbox[dukur1]"><img src="images/altarisdukar/munstur/dukur1_mynd.jpg" alt="" /></a>
+                    </div>
+                    <p>Halló amma</p>
+                </div><!--end small_box-->
+                
+                <div class="small_box box3">
+                    <div class="portfolio_item_noside">
+                    <a href="images/altarisdukar/munstur/dukur1.jpg#2" rel="lightbox[dukur1]"><img src="images/altarisdukar/munstur/dukur1.jpg" alt="" /></a>
+                    </div>
+                    <p>Halló</p>
+                </div><!--end small_box-->
 			</div>
 
             <!--<p class="image-list">
