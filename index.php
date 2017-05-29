@@ -23,7 +23,7 @@
                       </div><!-- end featured_text-->
                       
                       <div class="featured_image">
-                      	<a href="#"><img src="slideshow/bas3.jpg" alt="" /></a>
+                      	<a href="#"><img src="slideshow/bas4.jpg" alt="" /></a>
                       </div><!-- end featured_image-->
                       
                   </div><!-- end featured_item-->	            
@@ -72,7 +72,7 @@
                     </div>
                     
                     <div class="preview_images">
-                      	<a href="#" class="current_prev"><img src="slideshow/bas3_tn.jpg" alt="" height="30px" width="44px" /></a>
+                      	<a href="#" class="current_prev"><img src="slideshow/bas4_tn.jpg" alt="" height="30px" width="44px" /></a>
                       	<!--<a href="#"><img src="slideshow/altarisdukar.jpg" alt="" height="30px" width="44px" /></a>-->
                         <a href="#"><img src="slideshow/kirkja1_tn.jpg" alt="" height="30px" width="44px" /></a>
                       
