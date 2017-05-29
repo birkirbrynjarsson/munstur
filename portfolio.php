@@ -16,7 +16,8 @@
         <div id="main">
 		
           <div id="content">
-		  	<div id="inner_content_big">
+
+		  	<!--<div id="inner_content_big">
             
            <span class="meta">Altarisdúkar í íslenskum kirkjum.</span> 
            <h2><a href="#">Altarisdúkar - Dagatal</a></h2>
@@ -25,10 +26,9 @@
 		   <div class="entry_portfolio">
           	<div class="small_box box1">
 				<div class="portfolio_item">
-            	<!--<h3><a href="#">Dagatal 2010</a></h3>-->
                 <a href="images/altarisdukar/dagatal.jpg#1" rel="prettyPhoto[dagatal]"><img src="images/altarisdukar/dagatal_tn.jpg" alt="" /></a>
 				</div><p>Dagatalið er með ljósmyndum af kirkjum og altarisdúkum í Eyjafjarðar- og Þingeyjarprófastdæmi.</p>
-            </div><!--end small_box-->
+            </div>
             
             <div class="small_box box2">
 				<div class="portfolio_item">
@@ -36,15 +36,15 @@
 				<a href="images/altarisdukar/neskirkja.jpg#2" rel="prettyPhoto[dagatal]"><img src="images/altarisdukar/neskirkja_tn.jpg" alt="" /></a>
 				</div><p><strong>Neskirkja.</strong><br />Munstur á altarisdúk frá 1977 í Neskirkju í Aðaldal. Guðfinna Sigurðardóttir heklaði.</p>
 				<a href="images/altarisdukar/neskirkja_dagar.jpg#3" rel="prettyPhoto[dagatal]"></a>
-            </div><!--end small_box-->
+            </div>
             
             <div class="small_box box3">
 				<div class="portfolio_item">
             	<!--<h3><a href="#">Dalvíkurkirkja</a></h3>-->
 				<a href="images/altarisdukar/dalvikurkirkja.jpg#4" rel="prettyPhoto[dagatal]"><img src="images/altarisdukar/dalvikurkirkja_tn.jpg" alt="" /></a>
 				</div><p><strong>Dalvíkurkirkja.</strong><br />Munstur á altarisdúk frá árinu 2001 í Dalvíkurkirkju. Inga Benediktsdóttir hannaði og saumaði.</p>
-            </div><!--end small_box-->
-			</div>
+            </div>
+			</div>-->
             
            <div id="inner_content_big">
             
