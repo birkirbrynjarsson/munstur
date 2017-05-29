@@ -50,7 +50,7 @@
             </div><!--end small_box-->
 			</div>
 
-            <p class="image-list">
+            <!--<p class="image-list">
                 <a href="/images/altarisdukar/munstur/dukur1.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="" src="/images/altarisdukar/munstur/dukur1.jpg" alt="" width="240"/></a>
                 <a href="/images/altarisdukar/munstur/dukur2.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignright" src="/images/altarisdukar/munstur/dukur2.jpg" alt="" width="240" /></a>
             </p>
@@ -60,7 +60,7 @@
             <p class="image-list">
                 <a href="/images/altarisdukar/munstur/dukur3.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="" src="/images/altarisdukar/munstur/dukur3.jpg" alt="" width="240" /></a>
                 <a href="/images/altarisdukar/munstur/dukur5.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="alignright" src="/images/altarisdukar/munstur/dukur5.jpg" alt="" width="240" /></a>
-            </p>
+            </p>-->
 
 			</div><!--end entry-content-->
 			</div><!--end entry-->
