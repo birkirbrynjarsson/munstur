@@ -32,7 +32,7 @@
 
             <h3>Hekluð altarisdúkamunstur</h3>
 
-           <p>Hér eru nokkur sýnishorn af altarisdúkamunstrum sem víða má sjá í kirkjum. Þau eru flest gömul og fengin úr munsturblöðum eða bókum. Heimilt er að taka afrit af munstrunum (frítt) en einnig er fyrirhugað að gefa út hefti með munstrum. Loks er bent á síðuna <a href="#">Altarisdúkamunstur á facebook</a>, þar verður hægt að fylgjast með framvindu og nýju efni.</p>
+           <p>Hér eru nokkur sýnishorn af altarisdúkamunstrum sem víða má sjá í kirkjum. Þau eru flest gömul og fengin úr munsturblöðum eða bókum. Heimilt er að taka afrit af munstrunum (frítt) en einnig er fyrirhugað að gefa út hefti með munstrum. Loks er bent á síðuna <a href="https://www.facebook.com/Altarisd%C3%BAkamunstur-1657806017860895/">Altarisdúkamunstur á facebook</a>, þar verður hægt að fylgjast með framvindu og nýju efni.</p>
 
             <p class="image-list">
                 <a href="/images/altarisdukar/munstur/dukur1.jpg" rel="prettyPhoto[altarisdukamunstur]"><img class="" src="/images/altarisdukar/munstur/dukur1.jpg" alt="" width="240"/></a>
