@@ -37,20 +37,39 @@
 			</div><!--end entry-->
 
 			<div class="entry">
-				<span class="meta">...</span>
+				<span class="meta"></span>
            		<h2><a href="#" id="jenny">Jenný Karlsdóttir</a></h2>
 
 			<div class="entry-content">
 
                 <p>
-                    ...
                 </p>
 			<!-- <p>Ég er fædd á Akureyri 28. Júlí 1939.</p>
             <p>Að loknu gagnfræðaprófi frá Núpi í Dýrafirði (1955) stundaði ég nám við Húsmæðraskólann á Laugalandi í Eyjafirði árið eftir. Samhliða barnauppeldi og brauðstriti lauk ég kennaraprófi frá Kennaraháskóla Íslands (1982) og starfaði við kennslu frá 1971 til 2006 á Akureyri og í Eyjafirði. Veturinn 1995-1996 var ég í námsleyfi og lærði myndvefnað í Statens Lærerhögskole í Oslo. Einnig var ég í Fornámsdeild Myndlistarskólans á Akureyri sept-des 1998.</p>
             <p>Ég hef fjölbreytta og  nokkuð heildstæða handverksþekkingu,  þar sem í kennaranámi mínu tók ég smíðar sem valgrein og hannyrðirnar lærði ég m.a. í húsmæðraskólanum. Svo er ég alin upp á bólsturverkstæði. Faðir minn var með bólsturgerð á neðri hæðinni og móðir mín var körfumublusmiður, menntuð í Noregi. Að auki hefi ég sótt fjöldann allan af handverks og kennaranámskeiðum frá 1967.</p> -->
+			</div>
+			</div>
 
-			</div>
-			</div>
+            <div class="entry">
+
+            <span class="meta">Grein sem birtist í <a href="http://www.visir.is/g/2017170429919">Fréttablaðinu 20. april 2017</a>.</span>
+           <h2>Jenný hlýtur heiðursviðurkenningu Menningarsjóðs Akureyrar</h2>
+
+           <div class="entry-head">
+               <span class="date">20. april 2017</span><br/>
+               <span class="date">Anton Egilsson skrifar</span>
+           </div>
+
+           <div class="entry-content">
+
+                <div class="aligncenter">
+                    <a href="/images/altarisdukar/frettabladid/frettabladid-2017.png" rel="prettyPhoto[frettabladid]"><img src="/images/altarisdukar/frettabladid/frettabladid-2017.png" alt="" width="570" /></a>
+                    <span class="meta">Aftari röð frá vinstri: Fanney Hauksdóttir, Þóra Sif Sigurðardóttir forstöðumaður Lögmannshlíðar, Edda Friðgeirsdóttir og Kristinn Björnsson. Fyrir framan þau sitja Jenný Karlsdóttir og Orri Harðarson.</span>
+                </div>
+
+                <p>Heiður­sviður­kenn­ing Menn­ing­ar­sjóðs er veitt ein­stak­ling­i sem hefur með fram­lagi sínu stutt við og auðgað menn­ing­ar­líf bæj­ar­ins. Í ár varð fyrir valinu handverkskonan Jenný Karlsdóttir en hún hefur lagt mikið af mörkum við að varðveita og upphefja íslenska menningararfinn. Jenný hefur um langa hríð safnað munstrum og gert þau aðgengileg fyrir almenning.</p>
+            </div>
+            </div>
 
            </div><!-- end inner_content-->
 
