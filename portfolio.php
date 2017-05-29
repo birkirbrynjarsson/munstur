@@ -176,7 +176,7 @@
             <div class="small_box box2">
             	<span class="meta">Hafðu Samband</span>
             	<h3><a href="#">Pantaðu Núna!</a></h3>
-                <p>Ef þú hefur áhuga á að eignast eitthvað af bókunum mínum, þá endilega hafðu samband. Þú getur sent mér póst með því að <a href="contact.php">smella hér</a> eða hringt í mig í síma 860-4933.</p><p>Jenný Karlsdóttir<br />Víkurgili 19<br />600 Akureyri<br />S: 860-4933 / 462-5869<br />jenny@munstur.is</p><img src="files/front4.png" alt="" class="ie6fix" />
+                <p>Ef þú hefur áhuga á að eignast eitthvað af bókunum mínum, þá endilega hafðu samband. Þú getur sent mér póst á <a href="mailto:jenny@munstur.is">jenny@munstur.is</a> eða hringt í mig í síma 860-4933.</p>
             </div><!--end widget-->
             </div><!--end Entry Portfolio-->
 						
