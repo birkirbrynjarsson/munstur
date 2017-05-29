@@ -36,14 +36,14 @@
 
            <div class="entry_portfolio">
           	<div class="small_box box1">
-				<div class="portfolio_item">
+				<div class="portfolio_item_noside">
             	<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>
                 <a href="images/baekur/leidarvisir.jpg#1" rel="lightbox[portfolio]"><img src="images/baekur/leidarvisir_tn.jpg" alt="" /></a>
 				</div><p><a href="http://munstur.is/baekur/hannyrdir.php"><strong>Leiðarvísir til að nema ýmsar kvennlegar hannyrðir.</strong></a> (Reykjavík 1886) Eftir Þóru Pjetursdóttur, Jarþrúði Jónsdóttur og Þóru Jónsdóttur</p>
             </div><!--end small_box-->
             
             <div class="small_box box3">
-				<div class="portfolio_item">
+				<div class="portfolio_item_noside">
             	<h3><a href="http://munstur.is/baekur/vefnadur.php">Útsaumur</a></h3>
 				<a href="images/baekur/vefnadur_utsaumur.jpg#3" rel="lightbox[portfolio]"><img src="images/baekur/vefnadur_utsaumur_tn.jpg" alt="" /></a>
 				</div><p><a href="http://munstur.is/baekur/vefnadur.php"><strong>Vefnaðar og útsaumsgerðir. 1 - 2 - 3.</strong></a><br />Þessi þrjú hefti komu út sem fylgirit með tímaritinu Hlín, eftir Halldóru Bjarnadóttur.</p>
