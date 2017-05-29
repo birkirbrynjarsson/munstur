@@ -32,7 +32,6 @@
             
             <div class="small_box box2">
 				<div class="portfolio_item">
-            	<!--<h3><a href="#">Neskirkja</a></h3>-->
 				<a href="images/altarisdukar/neskirkja.jpg#2" rel="prettyPhoto[dagatal]"><img src="images/altarisdukar/neskirkja_tn.jpg" alt="" /></a>
 				</div><p><strong>Neskirkja.</strong><br />Munstur á altarisdúk frá 1977 í Neskirkju í Aðaldal. Guðfinna Sigurðardóttir heklaði.</p>
 				<a href="images/altarisdukar/neskirkja_dagar.jpg#3" rel="prettyPhoto[dagatal]"></a>
@@ -40,7 +39,6 @@
             
             <div class="small_box box3">
 				<div class="portfolio_item">
-            	<!--<h3><a href="#">Dalvíkurkirkja</a></h3>-->
 				<a href="images/altarisdukar/dalvikurkirkja.jpg#4" rel="prettyPhoto[dagatal]"><img src="images/altarisdukar/dalvikurkirkja_tn.jpg" alt="" /></a>
 				</div><p><strong>Dalvíkurkirkja.</strong><br />Munstur á altarisdúk frá árinu 2001 í Dalvíkurkirkju. Inga Benediktsdóttir hannaði og saumaði.</p>
             </div>
