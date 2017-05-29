@@ -359,3 +359,70 @@ blockquote{
 	background-image:none;
 	color:#444;
 }
+
+
+/*****************************
+Birkir's Input
+/****************************/
+
+p.image-list img {
+	padding: 10px;
+	border: 1px solid #AAA;
+	margin: 15px 0 0 0;
+}
+
+/*****************************
+6.) Altarisdúka munstur, portfolio look with sidebar
+/****************************/	
+	
+		.entry_portfolio_noside{
+			padding-bottom:30px;
+			clear:both;
+			float:left;
+			width:100%;
+			position:relative;
+			}
+			
+			.entry_portfolio_noside p{
+				font-style:italic;
+				}
+	
+		.portfolio_item_noside{
+			height:132px;
+			overflow:hidden;
+			padding:5px;
+			position:relative;
+			width:230px;
+			}
+			
+		#top .portfolio_item_noside h3{	
+			position:absolute;
+			bottom:13px;
+			left:0;
+			border:none;
+			padding:0;
+			margin:0;
+			line-height:1em;
+		}
+		
+		#top #main .portfolio_item_noside h3 a{
+		padding:4px 8px;
+		font-size:12px;
+		display:inline;
+		height:auto;
+		width:auto;
+		overflow:auto;
+		}
+		
+		.portfolio_item_noside a{
+			display:block;
+			overflow:hidden;
+			width:230px;
+			}
+		
+			
+		#top .portfolio_item_noside img, #top .portfolio_item_noside a img{
+			border:none;
+			padding:0 !important; /*ie 6 fix fix =)*/
+			margin:0;
+			}
