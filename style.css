@@ -779,7 +779,7 @@ p.image-list img {
 		overflow:hidden;
 		padding:5px;
 		position:relative;
-		width:230px;
+		width:240px;
 		border:1px solid #ddd;
 	}
 			
@@ -805,7 +805,7 @@ p.image-list img {
 	.portfolio_item_noside a{
 		display:block;
 		overflow:hidden;
-		width:230px;
+		width:240px;
 	}
 	
 		
