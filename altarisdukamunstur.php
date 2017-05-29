@@ -38,14 +38,14 @@
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
                     <!--<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>-->
-                    <a href="images/altarisdukar/munstur/dukur1_mynd.jpg#1" rel="lightbox[dukur1]"><img src="images/altarisdukar/munstur/dukur1_mynd.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur1_mynd.jpg#1" rel="lightbox[dukur1]"><img src="images/altarisdukar/munstur/dukur1_mynd_tn.jpg" alt="" /></a>
                     </div>
                     <p>Halló amma</p>
                 </div><!--end small_box-->
                 
                 <div class="small_box box3">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/dukur1.jpg#2" rel="lightbox[dukur1]"><img src="images/altarisdukar/munstur/dukur1.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur1.jpg#2" rel="lightbox[dukur1]"><img src="images/altarisdukar/munstur/dukur1_tn.jpg" alt="" /></a>
                     </div>
                     <p>Halló</p>
                 </div><!--end small_box-->
