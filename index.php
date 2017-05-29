@@ -27,23 +27,24 @@
                       </div><!-- end featured_image-->
                       
                   </div><!-- end featured_item-->	            
+
                                    
-                  <div class="featured_item">
-                  <div class="featured_text">
-            			<div class="entry">
-                        	<span class="meta">Altarisdúkar</span>
-            				<h2><a href="#">Dagatal 2010</a></h2>
+                  <!--<div class="featured_item">-->
+                  <!--<div class="featured_text">-->
+            			<!--<div class="entry">-->
+                        	<!--<span class="meta">Altarisdúkar</span>-->
+            				<!--<h2><a href="#">Dagatal 2010</a></h2>-->
                             
-                			<p>Gefið var út dagatal fyrir árið 2010 með myndum og upplýsingum af bæði kirkjum og altarisdúkum úr Eyjafjarðarprófastsdæmi.</p>
-                            </div>
-                            <a href="http://munstur.is/portfolio.php" class="read-more">Lesa Meira</a><a href="#" class="show-next">Næsta »</a>
-                      </div><!-- end featured_text-->
+                			<!--<p>Gefið var út dagatal fyrir árið 2010 með myndum og upplýsingum af bæði kirkjum og altarisdúkum úr Eyjafjarðarprófastsdæmi.</p>-->
+                            <!--</div>-->
+                            <!--<a href="http://munstur.is/portfolio.php" class="read-more">Lesa Meira</a><a href="#" class="show-next">Næsta »</a>-->
+                      <!--</div> end featured_text-->
                       
-                      <div class="featured_image">
-                      	<a href="#"><img src="slideshow/altarisdukar.jpg" alt="" /></a>
-                      </div><!-- end featured_image-->
+                      <!--<div class="featured_image">-->
+                      	<!--<a href="#"><img src="slideshow/altarisdukar.jpg" alt="" /></a>-->
+                      <!--</div> end featured_image-->
                       
-                  </div><!-- end featured_item-->
+                  <!--</div> end featured_item-->
                                     
                   
                   
