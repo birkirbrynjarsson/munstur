@@ -73,7 +73,7 @@
                     
                     <div class="preview_images">
                       	<a href="#" class="current_prev"><img src="slideshow/bas3_tn.jpg" alt="" height="30px" width="44px" /></a>
-                      	<a href="#"><img src="slideshow/altarisdukar.jpg" alt="" height="30px" width="44px" /></a>
+                      	<!--<a href="#"><img src="slideshow/altarisdukar.jpg" alt="" height="30px" width="44px" /></a>-->
                         <a href="#"><img src="slideshow/kirkja1_tn.jpg" alt="" height="30px" width="44px" /></a>
                       
                     </div>
