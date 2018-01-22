@@ -15,9 +15,11 @@
             			<div class="entry">
                         	<span class="meta">Munstur og Menning</span>
             				<h2><a href="#">Þjóðlegur hugmyndabanki</a></h2>
-                            
-                			<p>Munstur og menning endurútgefur gamlar handverksbækur og gömul munstur.</p><p>Munstur og Menning safnar gömlum munstrum og hannyrðum og vill með því sýna handverki formæðra og forfeðra okkar þá virðingu sem það á skilið.
-							</p>
+                            <p>Áhugafólk um munstur</p>
+                            <p>Nú hyggst Nunstur og menning sem gefið hefur út munsturbækur í rúm 20 ár, fara að draga saman seglin og eru sumir titlar þegar uppseldir.</p>
+                            <p>Nokkur eintök eru eftir af öðrum og ef einhver hefur áhuga á að eignast bækur er betra að hafa samband fyrr en seinna.</p>
+
+                			<!-- <p>Munstur og menning endurútgefur gamlar handverksbækur og gömul munstur.</p><p>Munstur og Menning safnar gömlum munstrum og hannyrðum og vill með því sýna handverki formæðra og forfeðra okkar þá virðingu sem það á skilið.</p> -->
                             </div>
                             <a href="http://munstur.is/munstur.php" class="read-more">Lesa Meira</a><a href="#" class="show-next">Næsta »</a>
                       </div><!-- end featured_text-->
