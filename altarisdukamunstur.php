@@ -38,6 +38,74 @@
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
                     <!--<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>-->
+                    <a href="images/altarisdukar/munstur/dukur6_mynd.jpg"><img src="images/altarisdukar/munstur/dukur6_mynd_tn.jpg" alt="" /></a>
+                    </div>
+                    <p>Heklaður altarisdúkur</p>
+                </div><!--end small_box-->
+                
+                <div class="small_box box3">
+                    <div class="portfolio_item_noside">
+                    <a href="images/altarisdukar/munstur/dukur6.jpg"><img src="images/altarisdukar/munstur/dukur6_tn.jpg" alt="" /></a>
+                    </div>
+                    <p>Hægri-smelltu á myndina og veldu <i><b>Save link as...</b></i> til þess að vista munstrið á tölvuna þína.</p>
+                </div><!--end small_box-->
+			</div>
+
+            <div class="entry_portfolio_noside">
+                <div class="small_box box1">
+                    <div class="portfolio_item_noside">
+                    <!--<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>-->
+                    <a href="images/altarisdukar/munstur/dukur7_mynd.jpg"><img src="images/altarisdukar/munstur/dukur7_mynd_tn.jpg" alt="" /></a>
+                    </div>
+                    <p>Heklaður altarisdúkur</p>
+                </div><!--end small_box-->
+                
+                <div class="small_box box3">
+                    <div class="portfolio_item_noside">
+                    <a href="images/altarisdukar/munstur/dukur7.jpg"><img src="images/altarisdukar/munstur/dukur7_tn.jpg" alt="" /></a>
+                    </div>
+                    <p>Hægri-smelltu á myndina og veldu <i><b>Save link as...</b></i> til þess að vista munstrið á tölvuna þína.</p>
+                </div><!--end small_box-->
+			</div>
+
+           <h3>Þrískiptur dúkur<h3>
+
+           <div class="entry_portfolio_noside">
+                <div class="small_box box1">
+                    <div class="portfolio_item_noside">
+                    <a href="images/altarisdukar/munstur/thriskiptur_dukur.jpg"><img src="images/altarisdukar/munstur/thriskiptur_dukur_tn.jpg" alt="" /></a>
+                    </div>
+                    <p>Heklaður altarisdúkur</p>
+                </div>
+                
+                <div class="small_box box3">
+                    <div class="portfolio_item_noside">
+                    <a href="images/altarisdukar/munstur/thriskiptur_dukur1.jpg"><img src="images/altarisdukar/munstur/thriskiptur_dukur1_tn.jpg" alt="" /></a>
+                    </div>
+                    <p>Hægri-smelltu á myndina og veldu <i><b>Save link as...</b></i> til þess að vista munstrið á tölvuna þína.</p>
+                </div>
+			</div>
+
+            <div class="entry_portfolio_noside">
+                <div class="small_box box1">
+                    <div class="portfolio_item_noside">
+                    <a href="images/altarisdukar/munstur/thriskiptur_dukur2.jpg"><img src="images/altarisdukar/munstur/thriskiptur_dukur2_tn.jpg" alt="" /></a>
+                    </div>
+                    <p>Hægri-smelltu á myndina og veldu <i><b>Save link as...</b></i> til þess að vista munstrið á tölvuna þína.</p>
+                </div>
+                
+                <div class="small_box box3">
+                    <div class="portfolio_item_noside">
+                    <a href="images/altarisdukar/munstur/thriskiptur_dukur3.jpg"><img src="images/altarisdukar/munstur/thriskiptur_dukur2_tn.jpg" alt="" /></a>
+                    </div>
+                    <p>Hægri-smelltu á myndina og veldu <i><b>Save link as...</b></i> til þess að vista munstrið á tölvuna þína.</p>
+                </div>
+			</div>
+
+           <div class="entry_portfolio_noside">
+                <div class="small_box box1">
+                    <div class="portfolio_item_noside">
+                    <!--<h3><a href="http://munstur.is/baekur/hannyrdir.php">Hannyrðir</a></h3>-->
                     <a href="images/altarisdukar/munstur/dukur1_mynd.jpg"><img src="images/altarisdukar/munstur/dukur1_mynd_tn.jpg" alt="" /></a>
                     </div>
                     <p>Heklaður altarisdúkur</p>

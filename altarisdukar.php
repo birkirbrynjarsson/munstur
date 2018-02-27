@@ -44,6 +44,9 @@
 
                 <p><a href="/images/altarisdukar/seria/6.jpg" rel="prettyPhoto[altarisdukar]"><img class="aligncenter" src="/images/altarisdukar/seria/6-tn.jpg" alt="" /></a></p>
 
+                <h3>2017</h3>
+                <p>Sumarið 2017 voru heimsóttar kirkjur í Rangárvallasýslu milli Þjórsár og Markarfljóts.</p>
+
                 <h3>2016</h3>
                 <p>Árið 2016 var lokið við að skoða dúka í Borgarfirði og á Mýrum.</p>
 
