@@ -68,7 +68,7 @@
                 </div><!--end small_box-->
 			</div>
 
-           <h3>Þrískiptur dúkur<h3>
+           <h3>Þrískiptur dúkur</h3>
 
            <div class="entry_portfolio_noside">
                 <div class="small_box box1">
