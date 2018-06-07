@@ -113,7 +113,7 @@
                 
                 <div class="small_box box3">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/dukur1.jpg"><img src="images/altarisdukar/munstur/dukur1_tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur1.png"><img src="images/altarisdukar/munstur/dukur1_tn.jpg" alt="" /></a>
                     </div>
                     <p>Hægri-smelltu á myndina og veldu <i><b>Save link as...</b></i> til þess að vista munstrið á tölvuna þína.</p>
                 </div><!--end small_box-->
