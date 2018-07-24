@@ -30,6 +30,7 @@
            </div>
 
            <div class="entry-content"><!--<img class="aligncenter" src="files/contentpic1.jpg" alt="" />-->
+           <p>Einnig er hægt að <a href="images/altarisdukar/huguroghond-2018/huguroghond-jenny-2018.pdf">sækja alla greinina sem pdf hér.</a></p>
            <a href="images/altarisdukar/huguroghond-2018/huguroghond-2018-1.jpg" rel="prettyPhoto[altaris]"><img src="images/altarisdukar/huguroghond-2018/huguroghond-2018-1_tn.jpg" alt="Grein í Hugur og Hönd 2018, bls.9" width="570" /></a>
            <a href="images/altarisdukar/huguroghond-2018/huguroghond-2018-2.jpg" rel="prettyPhoto[altaris]"><img src="images/altarisdukar/huguroghond-2018/huguroghond-2018-2_tn.jpg" alt="Grein í Hugur og Hönd 2018, bls.10" width="570" /></a>
            <a href="images/altarisdukar/huguroghond-2018/huguroghond-2018-3.jpg" rel="prettyPhoto[altaris]"><img src="images/altarisdukar/huguroghond-2018/huguroghond-2018-3_tn.jpg" alt="Grein í Hugur og Hönd 2018, bls.11" width="570" /></a>
