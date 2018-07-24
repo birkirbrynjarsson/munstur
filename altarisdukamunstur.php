@@ -117,7 +117,7 @@
            <div class="entry_portfolio_noside">
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/dukur8_mynd.jpg"><img src="images/altarisdukar/munstur/dukur8_mynd_tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/dukur8.jpg"><img src="images/altarisdukar/munstur/dukur8_mynd_tn.jpg" alt="" /></a>
                     </div>
                     <p>Heklaður altarisdúkur</p>
                 </div><!--end small_box-->
