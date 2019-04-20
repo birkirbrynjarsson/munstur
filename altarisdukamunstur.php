@@ -37,14 +37,14 @@
             <div class="entry_portfolio_noside">
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/munstur-19-mynd.jpg"><img src="images/altarisdukar/munstur/munstur-19-mynd-tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/munstur19-mynd.jpg"><img src="images/altarisdukar/munstur/munstur19-mynd-tn.jpg" alt="" /></a>
                     </div>
                     <p>Heklaður altarisdúkur</p>
                 </div><!--end small_box-->
                 
                 <div class="small_box box3">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/munstur-19.jpg"><img src="images/altarisdukar/munstur/munstur-19-tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/munstur19.jpg"><img src="images/altarisdukar/munstur/munstur19-tn.jpg" alt="" /></a>
                     </div>
                     <p>Hægri-smelltu á myndina og veldu <i><b>Save link as...</b></i> til þess að vista munstrið á tölvuna þína.</p>
                 </div><!--end small_box-->
@@ -53,14 +53,14 @@
             <div class="entry_portfolio_noside">
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/munstur-18-mynd.jpg"><img src="images/altarisdukar/munstur/munstur-18-mynd-tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/munstur18-mynd.jpg"><img src="images/altarisdukar/munstur/munstur18-mynd-tn.jpg" alt="" /></a>
                     </div>
                     <p>Heklaður altarisdúkur</p>
                 </div><!--end small_box-->
                 
                 <div class="small_box box3">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/munstur-18.jpg"><img src="images/altarisdukar/munstur/munstur-18-tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/munstur18.jpg"><img src="images/altarisdukar/munstur/munstur18-tn.jpg" alt="" /></a>
                     </div>
                     <p>Hægri-smelltu á myndina og veldu <i><b>Save link as...</b></i> til þess að vista munstrið á tölvuna þína.</p>
                 </div><!--end small_box-->
@@ -69,14 +69,14 @@
             <div class="entry_portfolio_noside">
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/munstur-17-mynd.jpg"><img src="images/altarisdukar/munstur/munstur-17-mynd-tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/munstur17-mynd.jpg"><img src="images/altarisdukar/munstur/munstur17-mynd-tn.jpg" alt="" /></a>
                     </div>
                     <p>Heklaður altarisdúkur</p>
                 </div><!--end small_box-->
                 
                 <div class="small_box box3">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/munstur-17.jpg"><img src="images/altarisdukar/munstur/munstur-17-tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/munstur17.jpg"><img src="images/altarisdukar/munstur/munstur17-tn.jpg" alt="" /></a>
                     </div>
                     <p>Hægri-smelltu á myndina og veldu <i><b>Save link as...</b></i> til þess að vista munstrið á tölvuna þína.</p>
                 </div><!--end small_box-->
@@ -85,14 +85,14 @@
             <div class="entry_portfolio_noside">
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/munstur-16-mynd.jpg"><img src="images/altarisdukar/munstur/munstur-16-mynd-tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/munstur16-mynd.jpg"><img src="images/altarisdukar/munstur/munstur16-mynd-tn.jpg" alt="" /></a>
                     </div>
                     <p>Heklaður altarisdúkur</p>
                 </div><!--end small_box-->
                 
                 <div class="small_box box3">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/munstur-16.jpg"><img src="images/altarisdukar/munstur/munstur-16-tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/munstur16.jpg"><img src="images/altarisdukar/munstur/munstur16-tn.jpg" alt="" /></a>
                     </div>
                     <p>Hægri-smelltu á myndina og veldu <i><b>Save link as...</b></i> til þess að vista munstrið á tölvuna þína.</p>
                 </div><!--end small_box-->
@@ -101,14 +101,14 @@
             <div class="entry_portfolio_noside">
                 <div class="small_box box1">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/munstur-15-mynd.jpg"><img src="images/altarisdukar/munstur/munstur-15-mynd-tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/munstur15-mynd.jpg"><img src="images/altarisdukar/munstur/munstur15-mynd-tn.jpg" alt="" /></a>
                     </div>
                     <p>Heklaður altarisdúkur</p>
                 </div><!--end small_box-->
                 
                 <div class="small_box box3">
                     <div class="portfolio_item_noside">
-                    <a href="images/altarisdukar/munstur/munstur-15.jpg"><img src="images/altarisdukar/munstur/munstur-15-tn.jpg" alt="" /></a>
+                    <a href="images/altarisdukar/munstur/munstur15.jpg"><img src="images/altarisdukar/munstur/munstur15-tn.jpg" alt="" /></a>
                     </div>
                     <p>Hægri-smelltu á myndina og veldu <i><b>Save link as...</b></i> til þess að vista munstrið á tölvuna þína.</p>
                 </div><!--end small_box-->
