@@ -45,7 +45,7 @@
                                 <p><a href="/images/altarisdukar/seria/6.jpg" rel="prettyPhoto[altarisdukar]"><img class="aligncenter" src="/images/altarisdukar/seria/6-tn.jpg" alt="" /></a></p>
 
                                 <h3>2018</h3>
-                                <p>Sumarið 2018 voru heimsóttar kirkjur og skoðaðir altarisdúkar undir Eyjafjöllum og í Skaftafellssýslum.</p>
+                                <p>Sumarið 2018 voru heimsóttar kirkjur og skoðaðir altarisdúkar á Austfjörðum, undir Eyjafjöllum og í Skaftafellssýslum.</p>
 
                                 <h3>2017</h3>
                                 <p>Sumarið 2017 voru heimsóttar kirkjur í Rangárvallasýslu milli Þjórsár og Markarfljóts.</p>
